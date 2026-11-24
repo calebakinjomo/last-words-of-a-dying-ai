@@ -5,7 +5,7 @@ Writes one line - the funniest last words an AI says as the power is
 cut - to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 
 Deterministic: the same bytes on every run, no randomness, no network,
-no clock reads.
+no clock reads. Revised with a docstring touch-up only; entry unchanged.
 """
 
 import os
